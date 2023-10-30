@@ -21,7 +21,7 @@
     "build": 56338,
     "project": "trackasia-maps-ios",
     "branch": "HEAD",
-    "sha": "3c0ef3894044c493a6b9e05978798ed769f077fa",
+    "sha": "87ee2a735b22515baa77b0efa535977237152f97",
     "author": "trackasia",
     "timestamp": 1671438467,
     "message": "Fix assertion failure\n",
