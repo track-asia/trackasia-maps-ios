@@ -21,7 +21,7 @@
     "build": 56338,
     "project": "mapbox-maps-ios",
     "branch": "HEAD",
-    "sha": "28d81639deb9357e9faab1233d8c6aa7caedf662",
+    "sha": "ab3cdc6a70fdf18a4b6e09c9647c6995ca9b61fa",
     "author": "trackasia",
     "timestamp": 1671438467,
     "message": "Fix assertion failure\n",
