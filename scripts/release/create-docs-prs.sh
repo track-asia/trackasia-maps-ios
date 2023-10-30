@@ -66,7 +66,7 @@ maps_ios_upload_docs() {
     git_configure_release_user
     git config user.email "$CLA_SIGNED_GITHUB_EMAIL"
 
-    git remote set-url origin "https://x-access-token:$(mbx-ci github writer public token)@github.com/mapbox/mapbox-maps-ios.git"
+    git remote set-url origin "https://x-access-token:$(mbx-ci github writer public token)@github.com/track-asia/trackasia-maps-ios.git"
 
     info "Commit"
     git add .

@@ -18,8 +18,8 @@ def main():
     with tempfile.TemporaryDirectory() as tmpdirname:
         writer_token_result = subprocess.run(['mbx-ci', 'github', 'writer', 'public', 'token'], capture_output=True, text=True)
 
-        print(f"Checkout publisher-production branch at {tmpdirname}/mapbox-maps-ios")
-        repo = checkout_repo(f"https://x-access-token:{writer_token_result.stdout}@github.com/mapbox/mapbox-maps-ios.git", "publisher-production", tmpdirname)
+        print(f"Checkout publisher-production branch at {tmpdirname}/trackasia-maps-ios")
+        repo = checkout_repo(f"https://x-access-token:{writer_token_result.stdout}@github.com/track-asia/trackasia-maps-ios.git", "publisher-production", tmpdirname)
 
         if os.getenv('CI'):
             repo.config_writer().set_value("user", "name", "Release SDK bot").set_value("user", "email", "it-admin+mapboxci@mapbox.com").release()

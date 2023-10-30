@@ -97,5 +97,5 @@ To add a new example, go through the following steps:
 
 3. At this point, the example file has been fully configured to work with the
    project. You can now customize the code in your example file! Once you've
-   finished, **[submit a pull request here](https://github.com/Mapbox/mapbox-maps-ios/compare/main...main?expand=1)**.
+   finished, **[submit a pull request here](https://github.com/track-asia/trackasia-maps-ios/compare/main...main?expand=1)**.
    We look forward to seeing your contributions!

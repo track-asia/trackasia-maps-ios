@@ -37,9 +37,9 @@ main() {
         REPOSITORY_NAME=${CIRCLE_REPOSITORY_URL##*/}
     else
         if [[ $PRIVATE_REPO_RULE == 1 ]]; then
-            REPOSITORY_NAME="mapbox-maps-ios-private.git"
+            REPOSITORY_NAME="trackasia-maps-ios-private.git"
         else
-            REPOSITORY_NAME="mapbox-maps-ios.git"
+            REPOSITORY_NAME="trackasia-maps-ios.git"
         fi
     fi
     set -u

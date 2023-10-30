@@ -17,7 +17,7 @@ git clone "https://x-access-token:$(mbx-ci github reader token)@github.com/mapbo
 pushd "$STUDIO_PREVIEW_DIR" > /dev/null
 
 step "Install dependencies"
-sed -i ''  -E "s/(pod 'MapboxMaps',).*/\1 :path => '~\/project\/mapbox-maps-ios'/" Podfile
+sed -i ''  -E "s/(pod 'MapboxMaps',).*/\1 :path => '~\/project\/trackasia-maps-ios'/" Podfile
 cat Podfile
 bundle install
 bundle exec pod install --repo-update

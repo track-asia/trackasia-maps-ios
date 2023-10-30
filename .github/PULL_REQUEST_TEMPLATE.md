@@ -25,7 +25,7 @@ Describe the changes in this PR here.
         or
         | <video src="" width = 250/> | <video src="" width = 250/> |
     -->
- - [ ] Write tests for all new functionality. Put tests in correct [Test Plan](https://github.com/mapbox/mapbox-maps-ios/tree/main/Tests/TestPlans) (Unit, Integration, All)
+ - [ ] Write tests for all new functionality. Put tests in correct [Test Plan](https://github.com/track-asia/trackasia-maps-ios/tree/main/Tests/TestPlans) (Unit, Integration, All)
    - [ ] If tests were not written, please explain why.
  - [ ] Add documentation comments for any added or updated public APIs.
  - [ ] Add any new public, top-level symbols to the Jazzy config's `custom_categories` (scripts/doc-generation/.jazzy.yaml)
@@ -33,4 +33,4 @@ Describe the changes in this PR here.
  - [ ] Update the guides (internal access only), README.md, and DEVELOPING.md if their contents are impacted by these changes.
  - [ ] If this PR is a `v10.[version]` release branch fix / enhancement, merge it to `main` first and then port to `v10.[version]` release branch.
 
-PRs must be submitted under the terms of our Contributor License Agreement [CLA](https://github.com/mapbox/mapbox-maps-ios/blob/main/CONTRIBUTING.md#contributor-license-agreement).
+PRs must be submitted under the terms of our Contributor License Agreement [CLA](https://github.com/track-asia/trackasia-maps-ios/blob/main/CONTRIBUTING.md#contributor-license-agreement).

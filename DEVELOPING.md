@@ -48,7 +48,7 @@ This project:
 Clone the git repository:
 
 ```sh
-git clone git@github.com:mapbox/mapbox-maps-ios.git && cd mapbox-maps-ios
+git clone git@github.com:track-asia/trackasia-maps-ios.git && cd trackasia-maps-ios
 ```
 
 ### Building the Maps SDK
@@ -148,7 +148,7 @@ own `UIWindow` and root view controller, before adding the MapView to it.
 
 ## Making an Example
 
-* Check out this [doc](https://github.com/mapbox/mapbox-maps-ios/blob/main/Apps/Examples/README.md)
+* Check out this [doc](https://github.com/track-asia/trackasia-maps-ios/blob/main/Apps/Examples/README.md)
   to get more information about adding examples to our project.
 
 ## Tracing map performance

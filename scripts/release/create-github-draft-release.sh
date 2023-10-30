@@ -51,7 +51,7 @@ $CHANGELOG
 EOF
 
     PRODUCTION_DOCS_PR_URL=$(GITHUB_TOKEN=$(mbx-ci github writer public token) \
-        gh release create "v$VERSION" --repo mapbox/mapbox-maps-ios \
+        gh release create "v$VERSION" --repo track-asia/trackasia-maps-ios \
             --prerelease \
             --draft \
             --title "v$VERSION" \

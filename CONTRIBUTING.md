@@ -8,7 +8,7 @@ If you'd like to contribute code:
 
 1. Please familiarize yourself with the [install process](README.md), the [development process](DEVELOPING.md), and the contributor license agreement (CLA) at the bottom of this document. All contributions to the project must reflect its development standards and be offered under the terms of the CLA.
 
-2. Ensure that existing [pull requests](https://github.com/mapbox/mapbox-maps-ios/pulls) and [issues](https://github.com/mapbox/mapbox-maps-ios/issues) don’t already cover your contribution or question. If your planned contribution involves significant changes to the SDK, consider opening a new issue to discuss your design before beginning work.
+2. Ensure that existing [pull requests](https://github.com/track-asia/trackasia-maps-ios/pulls) and [issues](https://github.com/track-asia/trackasia-maps-ios/issues) don’t already cover your contribution or question. If your planned contribution involves significant changes to the SDK, consider opening a new issue to discuss your design before beginning work.
 
 3. Pull requests are gladly accepted. If your PR makes changes to the SDK that developers should be aware of, please be sure to update [CHANGELOG.md](CHANGELOG.md)
 
@@ -24,7 +24,7 @@ Our labeling system is:
 
 # Contributor License Agreement
 
-Thank you for contributing to the Mapbox Maps SDK for iOS ("the SDK")! This Contributor License Agreement (“Agreement”) sets out the terms governing any source code, object code, bug fixes, configuration changes, tools, specifications, documentation, data, materials, feedback, information or other works of authorship that you submit, beginning January 25, 2021, in any form and in any manner, to the SDK (https://github.com/mapbox/mapbox-maps-ios) (collectively “Contributions”).
+Thank you for contributing to the Mapbox Maps SDK for iOS ("the SDK")! This Contributor License Agreement (“Agreement”) sets out the terms governing any source code, object code, bug fixes, configuration changes, tools, specifications, documentation, data, materials, feedback, information or other works of authorship that you submit, beginning January 25, 2021, in any form and in any manner, to the SDK (https://github.com/track-asia/trackasia-maps-ios) (collectively “Contributions”).
 
 You agree that the following terms apply to all of your Contributions beginning January 25, 2021. Except for the licenses you grant under this Agreement, you retain all of your right, title and interest in and to your Contributions.
 

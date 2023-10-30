@@ -75,7 +75,7 @@ if __name__ == "__main__":
     #   "commit_message" : string,
     #   "commit_sha" : string,
     #   "branch" : string
-    #   "project" : string (github, e.g. mapbox-maps-ios)
+    #   "project" : string (github, e.g. trackasia-maps-ios)
     #   "component" : string (module that's being checked, e.g. MapboxMaps)
     #   "version" : string (schema version),
     #   "build_number" : string (CI build number)
