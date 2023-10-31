@@ -1,6 +1,6 @@
 ## License
 
-Mapbox Maps for iOS version 10.16.0
+Mapbox Maps for iOS version 1.0.0
 Mapbox Maps iOS SDK
 
 Copyright &copy; 2021 - 2023 Mapbox, Inc. All rights reserved.
@@ -31,7 +31,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 ---
 
-### MapboxCoreMaps,10.16.0,Mapbox ToS,Mapbox,https://www.track-asia.com/
+### MapboxCoreMaps,1.0.0,Mapbox ToS,Mapbox,https://www.track-asia.com/
 
 ```
 Mapbox Core Maps version 10.0

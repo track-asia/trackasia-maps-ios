@@ -56,7 +56,7 @@ platform :ios do
 
   lane :run_examples_firebase_tests do
     firebase_test_lab_ios_xctest(
-      gcp_project: 'mapbox-maps-ios-dc24c', # Your Google Cloud project name
+      gcp_project: 'trackasia-maps-ios-dc24c', # Your Google Cloud project name
       devices: [                          # Device(s) to run tests on
         {
           ios_model_id: 'iphone11',        # Device model ID, see gcloud command above
@@ -141,7 +141,7 @@ platform :ios do
   lane :firebase_tests do
     build_tests
     firebase_test_lab_ios_xctest(
-      gcp_project: 'mapbox-maps-ios-dc24c', # Your Google Cloud project name
+      gcp_project: 'trackasia-maps-ios-dc24c', # Your Google Cloud project name
       devices: [                          # Device(s) to run tests on
         {
           ios_model_id: 'iphone11',        # Device model ID, see gcloud command above
